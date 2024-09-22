@@ -58,10 +58,10 @@ SEAVER: Attention Reallocation for Mitigating Distractions in Language Models fo
 
 ```latex
 @inproceedings{li2024seaver, 
-	title={SEAVER: Attention Reallocation for Mitigating Distractions in Language Models for Conditional Semantic Textual Similarity Measurement},
-	author={Li, Baixuan and Fan, Yunlong and Gao, Zhiqiang},
-	journal={Findings of the Association for Computational Linguistics: EMNLP 2024},
-	year={2024}
+ title={SEAVER: Attention Reallocation for Mitigating Distractions in Language Models for Conditional Semantic Textual Similarity Measurement},
+ author={Li, Baixuan and Fan, Yunlong and Gao, Zhiqiang},
+ journal={Findings of the Association for Computational Linguistics: EMNLP 2024},
+ year={2024}
 }
 ```
 
